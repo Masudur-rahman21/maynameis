@@ -1,0 +1,7 @@
+{
+  "run": {
+    "type": "file",
+    "file": "youtube-clone-react-redux-main/public/index.html",
+    "ignoreCurrent": true
+  }
+}
